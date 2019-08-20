@@ -9,7 +9,7 @@ class Book {
   }
 }
 
-// UI class: Hanfle UI Task
+// UI class: Handle UI Task
 class UI {
   static displayBooks() {
     const books = Store.getBooks();
